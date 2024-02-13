@@ -21,6 +21,8 @@ _Create workflows that enable you to use Continuous Integration (CI) for your pr
 
 ## Step 5: Merge your pull request
 
+HEJ
+
 _Almost there! :heart:_
 
 You can now [merge](https://docs.github.com/get-started/quickstart/github-glossary#merge) your pull request!
